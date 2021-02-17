@@ -91,7 +91,7 @@ namespace Amazon.IP.Status.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to pwlmrupyxadfksft.
+        ///   Looks up a localized string similar to.
         /// </summary>
         internal static string password {
             get {
